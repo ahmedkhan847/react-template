@@ -1,5 +1,4 @@
 import React from "react";
-import ReactDOM from "react-dom";
 import { ThemeProvider } from "@material-ui/core";
 import { theme } from "./config/theme";
 import Main from "./Main";
